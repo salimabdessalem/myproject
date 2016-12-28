@@ -1,0 +1,5 @@
+[ {"picture":"img/cow.png","choose1":"cow","choose2":"rabbit","choose3":"duck","choose4":"fox","rightchoose":"cow"},
+	{"picture":"img/rabbit.jpg","choose1":"cow","choose2":"rabbit","choose3":"duck","choose4":"fox","rightchoose":"rabbit"},
+	{"picture":"img/duck.png","choose1":"cow","choose2":"rabbit","choose3":"duck","choose4":"fox","rightchoose":"duck"},
+	{"picture":"img/fox.gif","choose1":"cow","choose2":"rabbit","choose3":"duck","choose4":"fox","rightchoose":"fox"}]
+		
